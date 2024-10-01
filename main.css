@@ -1,0 +1,24 @@
+/* start comments using /* and end them using */
+
+body{
+    background-color: rgb(224, 127, 0);
+    color: whitesmoke;
+}
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 40px;
+}
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+#spookyMonth{
+    margin-right: 200px;
+    width:200 px
+}
+header{
+    text-align: center;
+}
